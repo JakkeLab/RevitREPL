@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Application RevitREPL</Name>
+		<Assembly>RevitREPL.dll</Assembly>
+		<FullClassName>RevitREPL.App</FullClassName>
+		<ClientId>bfbc4e4f-6a9f-45b9-b39a-21599ef8ca1c</ClientId>
+		<VendorId>Author</VendorId>
+		<VendorDescription>Author</VendorDescription>
+	</AddIn>
+</RevitAddIns>
